@@ -71,9 +71,8 @@ _(Note: The full detailed exploration of 20 specific business questions is avail
 - **Financial Efficiency:** Certain clubs manage to maintain high average player ratings while keeping their wage bills remarkably low, demonstrating superior transfer and scouting strategies.
 - **Undervalued Assets:** The analysis successfully identifies young players with high potential and relatively low release clauses, highlighting optimal targets for club investments.
 
-## 👤 Authors
+## 👤 Author
 
-- [Shubham Satapathy](https://github.com/shubham-git9643)
 - [Sumit Shakya](https://github.com/DextrSumit)
 
 Created as a comprehensive FIFA 21 Data Analysis and Business Intelligence project.
